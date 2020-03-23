@@ -1,0 +1,2 @@
+class NoChargeError < StandardError
+end

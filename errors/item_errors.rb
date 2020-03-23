@@ -1,0 +1,2 @@
+class NoStockError < StandardError
+end
